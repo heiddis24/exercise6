@@ -1,2 +1,2 @@
 d=int(input())
-print(d)
+print("* knús á þig")
