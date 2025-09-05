@@ -1,0 +1,1 @@
+print("Benni spíta í lófana")
